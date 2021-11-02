@@ -1,0 +1,73 @@
+fieldset {
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.container{
+    display: flex;
+    width: 100%;
+    margin-bottom: 70px;
+}
+
+.foto {
+    width: 35%;
+    height: 200px;
+    
+}
+
+.profile{
+    width: 45%;
+    margin-top: 30px; 
+}
+
+.categories{
+    width: 20%;
+    height: 200px;
+    margin-top: 30px;
+}
+
+.sayaa {
+    width: 250px;
+    height: 200px;
+    margin-top: 40px;
+    margin-left: 60px;
+}
+
+.container2 {
+    display: flex;
+    width: 95%;
+    height: 350px;
+    margin-top: 100px;
+}
+
+.video {
+    width: 50%;
+    height: 500px;
+    margin-left: 50px;
+}
+
+.gambar {
+    width: 400px;
+    height: 225px;
+    display: flex;
+    margin-left: 10px;
+    padding: 5px;
+    border: 1px solid black;
+}
+
+.gambargambar {
+    display: grid;
+    margin: auto;
+}
+
+.gambar1 {
+    width: 100px;
+    height: 100px;
+    margin: auto;
+}
+
+.attachment{
+    width: 40%;
+    height: 450px;
+}
